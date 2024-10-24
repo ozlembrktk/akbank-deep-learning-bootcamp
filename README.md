@@ -2,6 +2,8 @@
 Bu proje Global AI Hub Akbank Derin Öğrenme Bootcamp'i için hazırlanmıştır. 
 Proje Kaggle'daki A Large-Scale Dataset for Fish Segmentation and Classification veri setini kullanarak kaggle üzerinde geliştirilmiştir.
 
+KAGGLE LINK:
+
 Not: /opt/conda/lib/python3.10/site-packages/keras/src/trainers/data_adapters/py_dataset_adapter.py:121: UserWarning: Your `PyDataset` class should call `super().__init__(**kwargs)` in its constructor. `**kwargs` can include `workers`, `use_multiprocessing`, `max_queue_size`. Do not pass these arguments to `fit()`, as they will be ignored.
   self._warn_if_super_not_called()
   uyarısı alınmaktadır. Nedenini bilmediğim bu uyarıyı nasıl çözeceğim konusunda yardımcı olursanız sevinirim.
